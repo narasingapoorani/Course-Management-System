@@ -1,0 +1,22 @@
+# React dependencies and environment
+reactapp/node_modules/
+reactapp/.env
+
+# Spring Boot build output
+springapp/target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
